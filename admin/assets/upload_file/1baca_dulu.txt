@@ -1,0 +1,33 @@
+CD ini merupakan pelengkap dari buku 
+
+"Program Absensi Siswa Realtime dengan PHP dan SMS Gateway"
+
+
+- Final Project berada di folder smsku dan database.
+
+- Gammu untuk SMS Gateway ada di folder smsku/bin, untuk lebih jelasnya baca Bab 3, disana juga dibahas cara mengimport database gammu.
+
+- Ujicoba program menggunakan Xampp 1.7.1.
+
+- Bagi Anda yang ingin langsung menggunakan Program Absensi Siswa Realtime, silahkan baca Bab 8.
+
+- Program Absensi Siswa Realtime bisa dijalankan melalui URL http://localhost/smsku. Adapun user yang sudah tersedia didatabase adalah:
+
+	1. administrator
+	username : admin
+	password : admin
+
+	2. guru
+	username :0655735636200012
+	password :guru
+
+	3. siswa
+	username :9955141514
+	password : siswa
+
+
+
+Salam Hangat,
+
+Aminudin
+aminudin2008@gmail.com
